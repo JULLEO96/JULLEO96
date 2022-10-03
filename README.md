@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JULLEO96
+- 👋 Hi, I’m Julius Fagbemi
 - 👀 I’m interested in Data Analysis and Business Inteligence
 - 🌱 I’m currently learning Exploratory Data Analysis
 - 💞️ I’m looking to collaborate on business intelligence projects 
